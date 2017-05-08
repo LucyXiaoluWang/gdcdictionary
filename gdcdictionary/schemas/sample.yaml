@@ -529,6 +529,7 @@ properties:
       - GenomePlex (Rubicon) Amplified DNA
       - Granulocytes
       - Human Tumor Original Cells
+      - Lymphoid Normal
       - Metastatic
       - Mononuclear Cells from Bone Marrow Normal
       - Primary Blood Derived Cancer - Peripheral Blood
@@ -546,6 +547,7 @@ properties:
       - Slides
       - Solid Tissue Normal
       - Total RNA
+      - Tumor Adjacent Normal – Post Neo-adjuvant Therapy
       - Xenograft Tissue
       - Unknown
       - Not Reported
@@ -571,6 +573,8 @@ properties:
       - '14'
       - '15'
       - '16'
+      - '17'
+      - '18'
       - '20'
       - '40'
       - '41'
