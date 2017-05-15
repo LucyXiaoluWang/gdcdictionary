@@ -546,6 +546,7 @@ properties:
       - Slides
       - Solid Tissue Normal
       - Total RNA
+      - Tumor
       - Xenograft Tissue
       - Unknown
       - Not Reported
